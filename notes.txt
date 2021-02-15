@@ -1,0 +1,10 @@
+git add .
+git commit -m "first message"
+git remote add origin http://github.com/simple-project-java/brainstrorm-projects.git
+git push -u origin master
+
+section 2:
+git status
+git add <filename>
+
+
